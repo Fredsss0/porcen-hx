@@ -1,0 +1,22 @@
+{
+  "name": "porcen-hx",
+  "version": "1.0.1",
+  "description": "A module for calculating percentages",
+  "main": "dist/index.js",
+  "typings": "index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "percentage",
+    "math",
+    "calculation"
+  ],
+  "author": "fred_#2067",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.1.3"
+  },
+  "files": ["dist"]
+}
